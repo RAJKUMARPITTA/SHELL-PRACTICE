@@ -1,2 +1,2 @@
 #!/bin/bash
- hi this is rajkumarpitta started devops course 
+ echo "hi this is rajkumarpitta started devops course" 
