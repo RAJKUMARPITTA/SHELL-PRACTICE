@@ -1,2 +1,2 @@
 #!/bin/bash/
- hi
+ hi this is rajkumarpitta started devops course 
